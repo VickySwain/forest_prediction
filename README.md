@@ -1,18 +1,17 @@
 # Forest Fire Prediction
 
-This project leverages machine learning to predict the likelihood and severity of forest fires based on environmental and meteorological data. By using historical data and advanced algorithms, the project aims to aid in early detection and prevention of forest fires.
+This project uses machine learning techniques in **R** to predict the likelihood and severity of forest fires based on environmental and meteorological data. The aim is to assist in early detection and prevention strategies for forest fire management.
 
 ## Features
-- **Data Preprocessing**: Cleaning, normalization, and feature extraction from raw datasets.
-- **Prediction Model**: A trained machine learning model to classify and predict forest fire occurrences.
-- **Visualization**: Graphical representation of key metrics, such as temperature, humidity, and fire probability.
-- **Deployment Ready**: The model is designed for integration with web or mobile applications.
+- **Data Preparation**: Cleaning, feature engineering, and transformation of raw datasets.
+- **Prediction Model**: Machine learning algorithms trained to classify and predict forest fire occurrences.
+- **Visualization**: Static and interactive visualizations for insights into data and predictions.
+- **Reproducibility**: Code and results are reproducible across environments using R packages.
 
 ## Tech Stack
-- **Programming Language**: Python
-- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Modeling**: Random Forest, Logistic Regression, or Neural Networks (as applicable)
-- **Deployment Tools**: Flask/Django (optional)
+- **Programming Language**: R
+- **Libraries**: `caret`, `randomForest`, `ggplot2`, `dplyr`, `shiny` (optional for deployment)
+- **Modeling**: Random Forest, Decision Trees, or Support Vector Machines (SVM)
 
 ## Installation
 1. Clone the repository:
