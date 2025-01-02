@@ -1,8 +1,10 @@
-Overview
+OVERVIEW:
+
 This project aims to predict the occurrence of forest fires based on environmental factors using machine learning techniques in R. By analyzing variables like temperature, humidity, wind speed, and other relevant factors, the goal is to predict the likelihood of forest fires, aiding in better disaster preparedness and early intervention.
 We apply supervised learning algorithms to predict whether a forest fire will occur in a given area, based on past environmental conditions.
 
-Features
+FEATURES:
+
 Predictive Analytics: Predict the likelihood of forest fires using a range of environmental factors.
 Data Exploration & Preprocessing: Includes data cleaning, feature engineering, and transformation.
 Model Training: Utilize machine learning algorithms like Random Forest, Decision Trees, and more.
